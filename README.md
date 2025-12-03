@@ -1,1 +1,1 @@
-# fodr-szbot
+# hair-salon-chatbot
